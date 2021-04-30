@@ -2,7 +2,7 @@
   "BtsRingtonsAlbum": [
       {
        "album": "Map of the Soul: Persona" , 
-       "ringtonelist": [
+       "BtsRingtons": [
               {
                 "Title": "Dionysus BTS",
                 "path": "https://drive.google.com/uc?id=1-vfImLc_WCfj6vCRenYbBfHn7DANzzvq"
@@ -28,7 +28,7 @@
       },
       {
         "album": "Love Yourself: Tear",  
-        "ringtonelist": [
+        "BtsRingtons": [
               {
                 "Title": "anpanman",
                 "path": "https://drive.google.com/uc?id=1g-6xGnflDSg09_2vlU3slY8Dvv20Bd8W"
